@@ -1,2 +1,2 @@
 # Machine-learning
-Time series model
+Time series on Arima Sarima model for sales forecasting and prediction
